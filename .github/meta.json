@@ -1,8 +1,8 @@
 [
     {
-        "ident": "UppersBubbles",
+        "ident": "UltrawideFix",
         "hash": "%HASH%",
-        "patchnotes_url": "",
+        "patchnotes_url": "https://github.com/powware/pd2-ultrawide-fix",
         "download_url": "https://github.com/powware/pd2-ultrawide-fix/releases/download/refs%2Fheads%2Fmaster/UltrawideFix.zip"
     }
 ]

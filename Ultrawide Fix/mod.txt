@@ -16,10 +16,6 @@
 	],
 	"hooks": [
 		{
-			"hook_id": "lib/managers/hudmanager",
-			"script_path": "main.lua"
-		}
-		{
 			"hook_id": "core/lib/managers/viewport/coreviewportmanager",
 			"script_path": "main.lua"
 		},
