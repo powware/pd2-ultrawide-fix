@@ -203,7 +203,6 @@ function UltrawideFix.SetupHooks()
 
             function MenuCallbackHandler:ultrawide_fix_back_callback(item)
                 UltrawideFix:Save()
-
                 managers.viewport:resolution_changed()
             end
 
@@ -227,7 +226,6 @@ function UltrawideFix.SetupHooks()
                 )
 
                 UltrawideFix:Save()
-
                 managers.viewport:resolution_changed()
             end
 
