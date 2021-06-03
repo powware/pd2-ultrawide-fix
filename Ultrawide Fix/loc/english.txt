@@ -4,9 +4,9 @@
     "ultrawide_fix_base_res_scale_title": "Base Resolution Scale",
     "ultrawide_fix_base_res_scale_desc": "Scale the resolution of all menus.",
     "ultrawide_fix_saferect_border_scale_x_title": "Saferect Border Scale Width",
-    "ultrawide_fix_saferect_border_scale_x_desc": "The saferect is a box within your screen in which the menu and HUD are drawn in. Change the scale of the border height regarding the ratio towards the fullscreen in percentage.",
+    "ultrawide_fix_saferect_border_scale_x_desc": "The saferect is a box within your screen in which the menu and HUD are drawn. Change the ratio of the border width towards the full screen in percentage.",
     "ultrawide_fix_saferect_border_scale_y_title": "Saferect Border Scale Height",
-    "ultrawide_fix_saferect_border_scale_y_desc": "The saferect is a box within your screen in which the menu and HUD are drawn in. Change the scale of the border height regarding the ratio towards the fullscreen in percentage.",
+    "ultrawide_fix_saferect_border_scale_y_desc": "The saferect is a box within your screen in which the menu and HUD are drawn. Change the ratio of the border height towards the full screen in percentage.",
     "ultrawide_fix_default_title": "Default Options",
     "ultrawide_fix_default_desc": "Resets all options to their default state."
 }
