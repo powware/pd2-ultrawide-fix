@@ -10,6 +10,8 @@ UltrawideFix._options_menu_file = UltrawideFix._mod_path .. "menu/options.json"
 UltrawideFix._save_path = SavePath
 UltrawideFix._save_file = UltrawideFix._save_path .. "ultrawide_fix.json"
 
+HSAS = HSAS or {}
+
 local function deep_copy(orig)
     local orig_type = type(orig)
     local copy
