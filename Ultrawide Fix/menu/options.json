@@ -25,7 +25,7 @@
             "callback": "ultrawide_fix_saferect_border_scale_x_callback",
             "value": "saferect_border_scale_x",
             "default_value": 3.2,
-            "max": 10,
+            "max": 40,
             "min": 0,
             "step": 0.01
         },
